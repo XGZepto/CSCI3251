@@ -1,3 +1,11 @@
+# Personal Comment
+
+It is pure frustration to see my university finally decided to teach a bunch of Computer Science student how to use GitHub to manage their code, in a freaking 3-level course - so technically, you are expected to take this course in your junior year.
+
+REMARKABLE.
+
+Imagine someone made it to their third year yet without knowing how to use GitHub at all - or already mastered the skill to do version management yet have to take this course since it is compulsory. I call it the failure of higher education in both cases.
+
 <!-- 
   <<< Author notes: Header of the course >>> 
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
